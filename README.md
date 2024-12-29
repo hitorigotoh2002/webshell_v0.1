@@ -6,3 +6,6 @@
 # upload .htaccess file and bocchi-webshell.hitori
 - .htaccess
 - bocchi-webshell.hitori
+
+# https://gotoh-hitori.tistory.com 
+# よろしくお願いします。
